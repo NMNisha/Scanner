@@ -490,7 +490,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Scanner/Views/ViewController.swift"
-            timestampString = "541954046.389334"
+            timestampString = "541955324.388868"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "77"
@@ -506,7 +506,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Scanner/Views/ViewController.swift"
-            timestampString = "541954046.389779"
+            timestampString = "541955324.389217"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "79"
@@ -522,11 +522,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Scanner/Views/ScanCardViewController.swift"
-            timestampString = "541954046.390241"
+            timestampString = "541955324.389497"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "232"
-            endingLineNumber = "232"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
             landmarkName = "callOCR(image:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -538,11 +538,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Scanner/Views/ScanCardViewController.swift"
-            timestampString = "541954046.390397"
+            timestampString = "541955324.390649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "144"
-            endingLineNumber = "144"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
             landmarkName = "callOCR(image:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -554,11 +554,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Scanner/Views/ScanCardViewController.swift"
-            timestampString = "541954046.390536"
+            timestampString = "541955324.3915631"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "299"
-            endingLineNumber = "299">
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "callOCR(image:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -568,11 +570,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Scanner/Views/ScanCardViewController.swift"
-            timestampString = "541954046.390658"
+            timestampString = "541955324.3922859"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "293"
-            endingLineNumber = "293">
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "callOCR(image:)"
+            landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
@@ -614,7 +618,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Scanner/Views/ViewController.swift"
-            timestampString = "541954046.3907731"
+            timestampString = "541955324.392887"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "67"

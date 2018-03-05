@@ -229,11 +229,12 @@ class ScanCardViewController: UIViewController, UIImagePickerControllerDelegate,
                     self.panDOB = parsedInfo[i+3]
                    
                     self.panID = parsedInfo[i+5]
+                    i = i+5
                 } else {
                     print("No Prefix IN")
                 }
             }
-            if i == nil{
+            if i == 0{
                 DispatchQueue.main.async {
                     
                     IJProgressView.shared.hideProgressView()
