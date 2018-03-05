@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		A85EC744204AA7E40007599E /* ScanCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EC743204AA7E40007599E /* ScanCardViewController.swift */; };
 		A85EC748204B15ED0007599E /* UserDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EC747204B15ED0007599E /* UserDetails.swift */; };
-		A85EC74A204B89170007599E /* OCRParserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EC749204B89170007599E /* OCRParserViewController.swift */; };
 		A85EC74C204BB46D0007599E /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EC74B204BB46D0007599E /* ProgressView.swift */; };
 		A85EC74E204BC7B80007599E /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EC74D204BC7B80007599E /* TableViewCell.swift */; };
 		A8A4A3132047BA230045B07C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A4A3122047BA230045B07C /* AppDelegate.swift */; };
@@ -47,7 +46,6 @@
 /* Begin PBXFileReference section */
 		A85EC743204AA7E40007599E /* ScanCardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanCardViewController.swift; sourceTree = "<group>"; };
 		A85EC747204B15ED0007599E /* UserDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetails.swift; sourceTree = "<group>"; };
-		A85EC749204B89170007599E /* OCRParserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCRParserViewController.swift; sourceTree = "<group>"; };
 		A85EC74B204BB46D0007599E /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
 		A85EC74D204BC7B80007599E /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		A8A4A30F2047BA230045B07C /* Scanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,7 +101,6 @@
 				A8A4A34620494FC00045B07C /* ScanViewController.swift */,
 				A8A4A34A204993080045B07C /* HomeViewController.swift */,
 				A85EC743204AA7E40007599E /* ScanCardViewController.swift */,
-				A85EC749204B89170007599E /* OCRParserViewController.swift */,
 				A85EC74D204BC7B80007599E /* TableViewCell.swift */,
 			);
 			path = Views;
@@ -319,7 +316,6 @@
 				A85EC748204B15ED0007599E /* UserDetails.swift in Sources */,
 				A8A4A34920495ABF0045B07C /* ButtonDesign.swift in Sources */,
 				A85EC74C204BB46D0007599E /* ProgressView.swift in Sources */,
-				A85EC74A204B89170007599E /* OCRParserViewController.swift in Sources */,
 				A8A4A34B204993080045B07C /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
